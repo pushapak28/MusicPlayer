@@ -11,17 +11,17 @@ const nextBtn = document.getElementById('next');
 
 // Music 
 const songs = [{
-        name: 'Jacinto-1',
+        name: 'jacinto-1',
         displayName: 'Electric Chill Machine',
         artist: 'Chill/Jacinto',
     },
     {
-        name: 'Jacinto-2',
+        name: 'jacinto-2',
         displayName: 'Seven Nation Army',
         artist: 'Army/Jacinto',
     },
     {
-        name: 'Jacinto-3',
+        name: 'jacinto-3',
         displayName: 'Reggae Fusion',
         artist: 'Reggage/Jacinto',
     },
@@ -32,17 +32,17 @@ const songs = [{
         artist: 'Metric/Jacinto',
     },
     {
-        name: 'Pushpak-1',
+        name: 'pushpak-1',
         displayName: 'Bumper Boom',
         artist: 'Boom/MR.Creater',
     },
     {
-        name: 'Pushpak-2',
+        name: 'pushpak-2',
         displayName: 'Zindagi',
         artist: 'Zindagi/MR.Creater',
     },
     {
-        name: 'Pushpak-3',
+        name: 'pushpak-3',
         displayName: 'Tu Hai Ke Nahi',
         artist: 'Roy/MR.Creater',
     },
